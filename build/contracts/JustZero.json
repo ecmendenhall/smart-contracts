@@ -1,0 +1,75 @@
+{
+  "contractName": "JustZero",
+  "abi": [],
+  "bytecode": "0x60606040523415600e57600080fd5b603580601b6000396000f3006060604052600080fd00a165627a7a72305820883a2f320acd2e6cee140166a3933ad4537076fe6caa82736ff2f85c16ae017d0029",
+  "deployedBytecode": "0x6060604052600080fd00a165627a7a72305820883a2f320acd2e6cee140166a3933ad4537076fe6caa82736ff2f85c16ae017d0029",
+  "sourceMap": "26:21:0:-;;;;;;;;;;;;;;;;;",
+  "deployedSourceMap": "26:21:0:-;;;;;",
+  "source": "pragma solidity ^0.4.17;\n\ncontract JustZero { }",
+  "sourcePath": "/Users/ecm/Projects/smart-contracts/contracts/JustZero.sol",
+  "ast": {
+    "attributes": {
+      "absolutePath": "/Users/ecm/Projects/smart-contracts/contracts/JustZero.sol",
+      "exportedSymbols": {
+        "JustZero": [
+          2
+        ]
+      }
+    },
+    "children": [
+      {
+        "attributes": {
+          "literals": [
+            "solidity",
+            "^",
+            "0.4",
+            ".17"
+          ]
+        },
+        "id": 1,
+        "name": "PragmaDirective",
+        "src": "0:24:0"
+      },
+      {
+        "attributes": {
+          "baseContracts": [
+            null
+          ],
+          "contractDependencies": [
+            null
+          ],
+          "contractKind": "contract",
+          "documentation": null,
+          "fullyImplemented": true,
+          "linearizedBaseContracts": [
+            2
+          ],
+          "name": "JustZero",
+          "nodes": [
+            null
+          ],
+          "scope": 3
+        },
+        "id": 2,
+        "name": "ContractDefinition",
+        "src": "26:21:0"
+      }
+    ],
+    "id": 3,
+    "name": "SourceUnit",
+    "src": "0:47:0"
+  },
+  "compiler": {
+    "name": "solc",
+    "version": "0.4.18+commit.9cf6e910.Emscripten.clang"
+  },
+  "networks": {
+    "5777": {
+      "events": {},
+      "links": {},
+      "address": "0x8f0483125fcb9aaaefa9209d8e9d7b9c8b9fb90f"
+    }
+  },
+  "schemaVersion": "1.0.1",
+  "updatedAt": "2017-12-29T19:18:17.169Z"
+}
